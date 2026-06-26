@@ -1,1 +1,1 @@
-Meu primiero  Git
+Meu primeiro  Git
